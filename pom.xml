@@ -51,7 +51,7 @@
         <configuration>
           <reportPlugins>
             <plugin>
-              <artifactId>maven-checkstyle-plugin</artifactId>
+                     <artifactId>maven-checkstyle-plugin</artifactId>
             </plugin>
 
             <plugin>
