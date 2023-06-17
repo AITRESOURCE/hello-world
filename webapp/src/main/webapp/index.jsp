@@ -1,2 +1,2 @@
-<h1> Hello, Welcome AFRO INSTITUTE OF TECHNOLOGY !!! </h1>
+<h1> Let's party it is saturday !!! </h1>
 
